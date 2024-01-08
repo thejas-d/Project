@@ -30,7 +30,8 @@ Step 3: Transforming data with the help of Power Query
 
 Dashboards/reports are created according to the requirement. What actually the company wants to look for and what is more important for the company is taken into consideration and then after the dashboard is created. There can be n number of variations to create a dashboard. Generally, the dashboard should look understandable and an ease to access.
 
-Data Analysis Using SQL
+**Data Analysis Using SQL**:
+
 1. Show all customer records
 
 SELECT * FROM customers;
